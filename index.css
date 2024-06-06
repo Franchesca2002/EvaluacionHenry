@@ -1,0 +1,28 @@
+.body{
+    max-width: 420px;
+    color: aqua;  
+}
+.titulo{
+    display: flex;
+    color:rgb(143, 30, 143) ;
+    justify-content: center;
+}
+.container{
+    justify-content: center;
+    margin: 50px;
+    border: 5px;
+    display: flex;
+    text-align: center;
+    box-shadow: 2px solid black;
+    
+}
+.prototipo{
+    margin-top: 200px;
+    border: 5px;
+}
+.footer{
+display: flex;
+margin-top: 55px;
+color: rgb(126, 27, 146);
+
+}
